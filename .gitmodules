@@ -1,0 +1,8 @@
+[submodule "libraries/raydium-clmm-core"]
+	path = libraries/raydium-clmm-core
+	url = https://github.com/Vai3soh/raydium-clmm
+	branch = solana-v2
+[submodule "libraries/raydium-cpswap-core"]
+	path = libraries/raydium-cpswap-core
+	url = https://github.com/Vai3soh/raydium-cp-swap
+	branch = solana-v2
